@@ -1,0 +1,20 @@
+{
+  "name": "lab11-user-validation",
+  "version": "1.0.0",
+  "description": "Lab 11: A user validation web application checking credentials against a database",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "user-validation",
+    "authentication",
+    "database",
+    "sqlite",
+    "php",
+    "web-programming",
+    "lab11"
+  ],
+  "author": "Ayush Kumar",
+  "license": "MIT"
+}
