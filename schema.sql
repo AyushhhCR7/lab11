@@ -25,3 +25,4 @@ INSERT INTO users (username, password, full_name, email, role) VALUES
 ('admin', 'admin123', 'System Administrator', 'admin@example.com', 'Administrator'),
 ('ayush', 'password123', 'Ayush Kumar', 'ayushmessi2006@gmail.com', 'Developer'),
 ('student', 'student@2026', 'Engineering Student', 'student@university.edu', 'Student');
+

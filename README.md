@@ -181,3 +181,4 @@ Open **[http://localhost:8000](http://localhost:8000)** in your browser. The inc
 | 5 | Incorrect Password | `ayush` / `wrongpassword` | Displays **Authentication Failed** page with troubleshooting tips |
 | 6 | Empty Form Submission | *(blank)* / *(blank)* | Displays validation error requiring all fields |
 | 7 | Session Logout | Click **Logout** button on success page | Session destroyed, returns to `index.html` with logout confirmation |
+

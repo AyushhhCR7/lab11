@@ -30,3 +30,4 @@ session_destroy();
 header("Location: index.html?message=" . urlencode("You have been successfully logged out."));
 exit();
 ?>
+
